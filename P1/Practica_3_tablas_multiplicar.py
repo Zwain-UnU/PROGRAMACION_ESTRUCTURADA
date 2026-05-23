@@ -34,11 +34,6 @@ num+=1
 #lo de arriba se repite con cada tabla
 
 
-
-
-
-
-
 print("for:")
 
 for num in range (0,101,10):
